@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is main version
+=======
+This is dev version
+>>>>>>> dev
