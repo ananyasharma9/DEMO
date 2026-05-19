@@ -1,2 +1,7 @@
 This is main version
+<<<<<<< HEAD
 Main new change
+=======
+Main new change
+This is a special feature
+>>>>>>> f21dc04 (dev: special feature)
