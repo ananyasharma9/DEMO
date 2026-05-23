@@ -2,8 +2,6 @@ This is main version
 Main new change
 This is a special feature
 This line added from GitHub
-<<<<<<< HEAD
 galat change
-=======
 This line is for tryinh PR through Github 
->>>>>>> 41044cbc71b6ba364a354f60bf6e6db2535786e8
+
